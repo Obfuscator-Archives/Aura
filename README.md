@@ -2,10 +2,6 @@
 
 <br>
 
-![Build Status](https://github.com/aura-systems/Aura-Operating-System/workflows/.NET%20Core/badge.svg)
-[![Issues](https://img.shields.io/github/issues/loomisntreal/Aura-.NET-Obfuscator.svg)](https://github.com/loomisntreal/Aura-.NET-Obfuscator/issues)
-[![Pull requests](https://img.shields.io/github/issues-pr/loomisntreal/Aura-.NET-Obfuscator.svg)](https://github.com/loomisntreal/Aura-.NET-Obfuscator/pulls)
-
 A secure based .NET Obfuscator developed in C# made by loom (loomisntreal).
 
 ## Current Features
@@ -31,21 +27,7 @@ A secure based .NET Obfuscator developed in C# made by loom (loomisntreal).
 * Stack Conversion (adds a piece of code in front of all methods and converts them to a stack)
 * Resource Conversion (converts all resources in the application to fields)
 
-## Screenshots
-
-<p align="center"><img width=60% src="https://i.vgy.me/Svxjzm.png"></p>
-
-<p align="center"><img width=60% src="https://i.vgy.me/Qxn6xi.png"></p>
-
 ## FAQ
 
 * Q: Is there a binary available? A: No, you have to build it yourself.
 * Q: Will this project still be updated? A: Yes, if any decompilers are made for this obfuscator, minor & major bugs, or even a new feature, we will update this repository.
-
-## Contribution
-Do you want to add awesome features to Aura? Here's how:
-
-- Fork Aura-.NET-Obfuscator repository
-- Commit & push a new feature to the forked repository
-- Open a pull request from your fork to Aura .NET Obfuscator
-- We will review it and merge it
